@@ -7,7 +7,7 @@ Adds max-width = naturalWidth/w to images based on selector. Also watches for ad
 Usage
 ------
 
-```html
+```js
 import Retinafy from './retinafy'
 ```
 
@@ -19,6 +19,6 @@ or
 
 then
 
-```html
+```js
 new Retinafy(".retina");
 ```
